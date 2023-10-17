@@ -1,0 +1,13 @@
+@charset "ISO-8859-1";
+
+html, body {margin: 0; height: 100%; overflow: hidden}
+
+#birdGif{
+	position: relative;
+}
+
+#pipediv{
+	position: relative;
+	height: 1000px;
+	width: 100px;
+}
